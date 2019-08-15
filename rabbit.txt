@@ -1,0 +1,8 @@
+rabbit
+git status
+exit
+
+
+
+clear
+cd Desktop
